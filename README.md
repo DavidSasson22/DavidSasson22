@@ -1,4 +1,5 @@
 ![DAVID_SASSON GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidSasson22&show_icons=true&theme=tokyonight)
+
 🌱 I’m currently learning Web developement
 📫 How to reach me: davids2289@gmail.com
 <!--
