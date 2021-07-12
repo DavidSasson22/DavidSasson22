@@ -6,7 +6,7 @@
 
 ### Languages and Tools:
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-informational?style=flat&logo=html5&logoColor=white&color=ff7c58" width="100" height="50">
+  <img src="https://img.shields.io/badge/-HTML5-informational?style=flat&logo=html5&logoColor=white&color=ff7c58" width="100" height="40">
   <img src="https://img.shields.io/badge/-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6">
   <img src="https://img.shields.io/badge/-Sass-informational?style=flat&logo=sass&logoColor=white&color=CC6699">
   <img src="https://img.shields.io/badge/-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E">
