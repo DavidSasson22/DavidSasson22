@@ -6,13 +6,15 @@
 
 
 ### Languages and Tools:
-<p align="center" width="200">
+<p align="center">
   <img src="https://img.shields.io/badge/-HTML5-informational?style=flat&logo=html5&logoColor=white&color=ff7c58" width="80" height="30">
   <img src="https://img.shields.io/badge/-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6"  width="80" height="30">
   <img src="https://img.shields.io/badge/-Sass-informational?style=flat&logo=sass&logoColor=white&color=CC6699"  width="80" height="30">
   <img src="https://img.shields.io/badge/-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E"  width="80" height="30">
   <img src ="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"  width="80" height="30">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  width="80" height="30">
+  </p>
+  <p align="center">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  width="80" height="30">
   <img src="https://img.shields.io/badge/-Redux-informational?style=flat&logo=redux&logoColor=white&color=764ABC"  width="80" height="30">
   <img src="https://img.shields.io/badge/-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=339933"  width="80" height="30">
