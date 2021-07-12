@@ -1,6 +1,9 @@
 ![DAVID_SASSON GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidSasson22&show_icons=true&theme=tokyonight)
 
 
+🔭 I’m currently working on Natural Intelligence 
+
+
 
 ### Languages and Tools:
 <p align="center">
